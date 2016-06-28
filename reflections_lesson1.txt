@@ -1,0 +1,3 @@
+I learnt that we could use the command line to spot differences
+With a version control system, we can quickly see changes made to code
+Git log / git diff / git log —stat
